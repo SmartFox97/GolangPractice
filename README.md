@@ -8,3 +8,4 @@
 + [判定字符是否唯一](https://github.com/SmartFox97/GolangPractice/tree/master/src/is-unique-lcci)
 + [公式求和](https://github.com/SmartFox97/GolangPractice/tree/master/src/formula-get-sum)
 + [公式求和2](https://github.com/SmartFox97/GolangPractice/tree/master/src/formula-get-sum-2)
++ [二进制求和](https://github.com/SmartFox97/GolangPractice/tree/master/src/add-binary)

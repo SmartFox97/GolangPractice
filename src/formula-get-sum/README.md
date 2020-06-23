@@ -80,4 +80,4 @@ func getSum(n int) int{
 
 # 0x03：运行结果
 
-![result](http://oss.smartfox.cc/2020/06/22/e7d7355bfbffb.png)
+![result](https://oss.smartfox.cc/2020/06/22/e7d7355bfbffb.png)

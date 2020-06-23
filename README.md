@@ -9,3 +9,4 @@
 + [公式求和](https://github.com/SmartFox97/GolangPractice/tree/master/src/formula-get-sum)
 + [公式求和2](https://github.com/SmartFox97/GolangPractice/tree/master/src/formula-get-sum-2)
 + [二进制求和](https://github.com/SmartFox97/GolangPractice/tree/master/src/add-binary)
++ [判定是否互为字符重排](https://github.com/SmartFox97/GolangPractice/tree/master/src/check-permutation-lcci)

@@ -98,4 +98,4 @@ func addBinary(a, b string) string {
 
 # 0x02：运行结果
 
-![result](http://oss.smartfox.cc/2020/06/23/2f83415cf6da3.png)
+![result](https://oss.smartfox.cc/2020/06/23/2f83415cf6da3.png)
